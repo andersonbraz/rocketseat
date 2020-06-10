@@ -7,6 +7,18 @@ Para aqueles que já possuem algum conhecimento básico sobre de desenvolvimento
 Meus exercicíos:
 
 [Javascript](https://andersonbraz.github.io/RocketSeat/Skylab/Javascript/)
+[EcmaScript6](https://andersonbraz.github.io/RocketSeat/Skylab/ES6/)
+
+
+### IMPORTANTE!
+
+Nos estudos de ES6 tivemos a necessidade de instalar alguns recursos para desenvolvimento das atividades e achei importante guardar a seguinte colinha:
+
+```shell
+yarn add @babel/cli
+yarn add @babel/preset-env
+yarn add @babel/core
+```
 
 ## Next Level Week
 
