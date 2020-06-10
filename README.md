@@ -9,6 +9,7 @@ Meus exercicíos:
 [Javascript](https://andersonbraz.github.io/RocketSeat/Skylab/Javascript/)
 [EcmaScript6](https://andersonbraz.github.io/RocketSeat/Skylab/ES6/)
 
+---
 
 ### IMPORTANTE!
 
@@ -19,6 +20,8 @@ yarn add @babel/cli
 yarn add @babel/preset-env
 yarn add @babel/core
 ```
+
+---
 
 ## Next Level Week
 
