@@ -13,7 +13,7 @@ Meus exercicíos:
 
 ### IMPORTANTE!
 
-Nos estudos de ES6 tivemos a necessidade de instalar alguns recursos para desenvolvimento das atividades, e achei porbem e importante guardar a seguinte colinha:
+Nos estudos de ES6 tivemos a necessidade de instalar alguns recursos para desenvolvimento das atividades, e achei importante guardar a seguinte colinha:
 
 ```shell
 yarn add @babel/cli
