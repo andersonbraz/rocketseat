@@ -19,6 +19,7 @@ Nos estudos de ES6 tivemos a necessidade de instalar alguns recursos para desenv
 yarn add @babel/cli
 yarn add @babel/preset-env
 yarn add @babel/core
+yarn add @babel/plugin-proposal-object-rest-spread
 ```
 
 ---
